@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733304043 source:d:\iti\8.oop with c++\assignments\ass6\aggregation shapes\composition\main.cpp
+	<iostream>
+	<graphics.h>
+

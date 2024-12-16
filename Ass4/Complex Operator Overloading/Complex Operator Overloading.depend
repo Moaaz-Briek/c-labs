@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1733061679 source:d:\iti\8.oop with c++\assignments\ass4\operator overloading\main.cpp
+	<iostream>
+
+1733127979 source:d:\iti\8.oop with c++\assignments\ass4\complex operator overloading\main.cpp
+	<iostream>
+	<cmath>
+
